@@ -11,8 +11,8 @@ int main()
     perimetro = 2 * pi * radio;
     superficie = pi * radio *radio;
 
-    printf("Superficie del círculo: %.2f\n", superficie);
-    printf("Perimetro del círculo: %.2f\n", perimetro);
+    printf("Superficie del circulo: %.2f\n", superficie);
+    printf("Perimetro del circulo: %.2f\n", perimetro);
 
 
 
